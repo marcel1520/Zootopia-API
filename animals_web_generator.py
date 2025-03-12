@@ -4,11 +4,8 @@ import os
 from dotenv import load_dotenv
 
 
-
 load_dotenv(".env")
 API_KEY = os.getenv("API_KEY")
-
-print(API_KEY)
 
 
 def get_user_animal(user_animal):
