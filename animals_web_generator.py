@@ -99,9 +99,15 @@ def main():
     json_read = read_json("user_animal_file.json")
     write_json("user_animal_file.json", json_read)
     animal_data_get = get_animal_data(json_read)
-    html_file_read = read_html_file("animals_template.html")
-    string_replace = replace_string(html_file_read, animal_data_get)
-    write_animal_html(string_replace)
+    if len(animal_data_get) > 0:
+        html_file_read = read_html_file("animals_template.html")
+        string_replace = replace_string(html_file_read, animal_data_get)
+        write_animal_html(string_replace)
+    else:
+        error_message = "<h1 style='color:red;'>!!! typo alert !!!</h1>"
+        html_file_read = read_html_file("animals_template.html")
+        string_replace = replace_string(html_file_read, error_message)
+        write_animal_html(string_replace)
 
 
 if __name__ == "__main__":

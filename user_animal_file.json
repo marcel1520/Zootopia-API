@@ -1,938 +1,783 @@
 [
     {
-        "name": "Australian Cattle Dog",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Canidae",
-            "genus": "Canis",
-            "scientific_name": "Canis lupus"
-        },
-        "locations": [
-            "Oceania"
-        ],
-        "characteristics": {
-            "temperament": "Strong minded yet loyal and loving",
-            "training": "Should be trained from an early age and respond best to firm and fair training",
-            "diet": "Omnivore",
-            "average_litter_size": "5",
-            "common_name": "Australian Cattle Dog",
-            "slogan": "High energy levels and active minds!",
-            "group": "Herd Dog",
-            "color": "GreyRedBlack",
-            "skin_type": "Hair",
-            "lifespan": "13-15 years",
-            "height": "17-20 inches"
-        }
-    },
-    {
-        "name": "Banjo Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia"
-        },
-        "locations": [
-            "South-America"
-        ],
-        "characteristics": {
-            "main_prey": " Earthworms, bloodworms, tubifex",
-            "group_behavior": "Solitary",
-            "biggest_threat": "Water pollution",
-            "most_distinctive_feature": " Banjo-shaped body",
-            "other_name(s)": "guitarrita catfish, banjo pleco, burrowing catfish",
-            "gestation_period": " 36-48 hours after fertilization of the eggs",
-            "water_type": "Fresh",
-            "optimum_ph_level": " 36-48 hours after fertilization of the eggs",
-            "habitat": "Amazon river basin, South American streams and ponds",
-            "predators": "Larger fish, birds",
-            "diet": "Carnivore",
-            "number_of_species": "40"
-        }
-    },
-    {
-        "name": "Blue Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Ictaluridae",
-            "genus": "Ictalurus",
-            "scientific_name": "Ictalurus furcatus"
-        },
-        "locations": [
-            "Central-America",
-            "North-America"
-        ],
-        "characteristics": {
-            "prey": "Aquatic animals",
-            "group_behavior": "School",
-            "estimated_population_size": "Unknown; 100 million in the Chesapeake Bay",
-            "biggest_threat": "None",
-            "most_distinctive_feature": "Large size",
-            "other_name(s)": "Blue channel, chucklehead cat, Mississippi cat, Fulton cat, forktail cat, great forktail cat, humpback blue, silver cat, and highfin blue",
-            "gestation_period": "6-10 days",
-            "water_type": "Brackish",
-            "optimum_ph_level": "5.0-7.0",
-            "habitat": "Reservoirs, rivers, lakes, and ponds",
-            "predators": "Osprey, bald eagles, and humans",
-            "diet": "Omnivore",
-            "type": "Fish",
-            "common_name": "Blue catfish",
-            "number_of_species": "1",
-            "color": "GreyBlueSilver",
-            "skin_type": "Scales",
-            "top_speed": "0.6 mph",
-            "lifespan": "9-25 years",
-            "weight": "25-150lbs",
-            "length": "24-65in"
-        }
-    },
-    {
-        "name": "Bobcat",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Lynx",
-            "scientific_name": "Lynx rufus"
-        },
-        "locations": [
-            "Central-America",
-            "North-America"
-        ],
-        "characteristics": {
-            "prey": "Rabbits, Mice, Deer",
-            "name_of_young": "Kitten",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "1,000,000",
-            "biggest_threat": "Hunting and habitat loss",
-            "most_distinctive_feature": "Short ear tufts and bobbed tail",
-            "other_name(s)": "Red Lynx, Wildcat",
-            "gestation_period": "60 - 70 days",
-            "habitat": "Mountainous forest, swamp, desert",
-            "predators": "Cougar, Wolves, Coyotes",
-            "diet": "Carnivore",
-            "average_litter_size": "3",
-            "lifestyle": "Nocturnal/Crepuscular",
-            "common_name": "Bobcat",
-            "number_of_species": "12",
-            "location": "North America",
-            "slogan": "About double the size of a domestic cat!",
-            "group": "Mammal",
-            "color": "BrownRedBlackWhiteTawnyBeige",
-            "skin_type": "Fur",
-            "top_speed": "34 mph",
-            "lifespan": "12 - 15 years",
-            "weight": "4.1kg - 15.3g (9lbs - 33lbs)",
-            "length": "65cm - 100cm (25in - 40in)",
-            "age_of_sexual_maturity": "1 - 2 years",
-            "age_of_weaning": "12 weeks"
-        }
-    },
-    {
-        "name": "Cat-Eyed Snake",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Reptilia",
-            "order": "Squamata",
-            "family": "Colubridae",
-            "genus": "Leptodeira",
-            "scientific_name": "Leptodeira annulata"
-        },
-        "locations": [
-            "Central-America",
-            "North-America",
-            "South-America"
-        ],
-        "characteristics": {
-            "prey": "Frogs, lizards, salamanders, fish, and rodents",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "Habitat destruction and deforestation",
-            "most_distinctive_feature": "Huge eyes in relation to body size with vertical pupils that resemble a cat's",
-            "distinctive_feature": "Blotches or saddle patterns along the back",
-            "habitat": "Grasslands, scrublands, and rainforests throughout the Americas",
-            "diet": "Carnivore",
-            "common_name": "Cat-eyed snake",
-            "color": "BrownGoldOrange",
-            "skin_type": "Scales",
-            "lifespan": "Unknown",
-            "length": "Up to five feet stretched out",
-            "venomous": "Yes",
-            "aggression": "Low"
-        }
-    },
-    {
-        "name": "Catahoula Leopard",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Canidae",
-            "genus": "Canis",
-            "scientific_name": "Canis lupus"
-        },
-        "locations": [
-            "North-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Puppy",
-            "litter_size": "4-12 puppies",
-            "diet": "Omnivore",
-            "color": "YellowRedBlackBrindle",
-            "skin_type": "Hair",
-            "top_speed": "45 mph",
-            "lifespan": "12-14 years"
-        }
-    },
-    {
-        "name": "Catalan Sheepdog",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Canidae",
-            "genus": "Canis",
-            "scientific_name": "Canis lupus"
-        },
-        "locations": [
-            "Europe"
-        ],
-        "characteristics": {
-            "name_of_young": "Puppy",
-            "litter_size": "3-6 puppies",
-            "diet": "Omnivore",
-            "color": "BrownGreyFawnRedBlackTan",
-            "lifespan": "13 years"
-        }
-    },
-    {
-        "name": "Caterpillar",
+        "name": "Ambrosia Beetle",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Arthropoda",
             "class": "Insecta",
-            "order": "Lepidoptera"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "main_prey": "Leaves, Plants, Flowers",
-            "habitat": "Quiet forests and pastures",
-            "predators": "Birds, Wasps, Mammals",
-            "diet": "Herbivore",
-            "favorite_food": "Leaves",
-            "common_name": "Caterpillar",
-            "number_of_species": "21000",
-            "location": "Worldwide",
-            "slogan": "The larvae of a moth or butterfly!",
-            "color": "YellowRedBlueBlackGreenOrange",
-            "skin_type": "Hair"
-        }
-    },
-    {
-        "name": "Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "order": "Siluriformes",
-            "scientific_name": "Siluriformes"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Ocean",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "main_prey": "Fish, Frogs, Worms",
-            "distinctive_feature": "Flat, broad head and whiskers",
-            "water_type": "Fresh",
-            "optimum_ph_level": "6.5 - 8.0",
-            "habitat": "Fast-flowing rivers and lakes",
-            "predators": "Large Fish, Birds, Mammals, Reptiles",
-            "diet": "Carnivore",
-            "favorite_food": "Fish",
-            "average_clutch_size": "40",
-            "slogan": "There are nearly 3,000 different species!",
-            "color": "BrownGreyYellowBlackWhiteTan",
-            "skin_type": "Scales",
-            "lifespan": "8 - 20 years",
-            "length": "1cm - 270cm (0.4in - 106in)"
-        }
-    },
-    {
-        "name": "Corn Rex Cat (Cornish Rex)",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Felis",
-            "scientific_name": "Felis catus"
-        },
-        "locations": [
-            "Europe"
-        ],
-        "characteristics": {
-            "diet": "Omnivore",
-            "common_name": "Corn Rex",
-            "color": "BrownRedBlueBlackWhiteCreamSilver",
-            "lifespan": "11-20 years",
-            "weight": "5-10 pounds"
-        }
-    },
-    {
-        "name": "Electric Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Malapteruridae"
-        },
-        "locations": [
-            "Africa"
-        ],
-        "characteristics": {
-            "prey": "Fish, invertebrates, and eggs",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "None",
-            "most_distinctive_feature": "The three pairs of barbells on the face",
-            "other_name(s)": "None",
-            "water_type": "Fresh",
-            "optimum_ph_level": "7.0 \u2013 8.0",
-            "habitat": "African rivers and lakes",
-            "predators": "Larger fish",
-            "diet": "Carnivore",
-            "type": "Ray-finned fish",
-            "common_name": "Electric Catfish",
-            "number_of_species": "21",
-            "color": "BrownGreyRedWhiteCream",
-            "skin_type": "Skin",
-            "lifespan": "Average of 10 years",
-            "weight": "4.4kg (2lbs)",
-            "length": "Up to 1.2m (4ft)"
-        }
-    },
-    {
-        "name": "European Polecat",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Mustelidae",
-            "genus": "Mustela",
-            "scientific_name": "Mustela putorius"
-        },
-        "locations": [
-            "Africa",
-            "Eurasia",
-            "Europe"
-        ],
-        "characteristics": {
-            "prey": "Rodents, rabbits, lizards",
-            "name_of_young": "kit",
-            "group_behavior": "Solitary",
-            "biggest_threat": "predators",
-            "most_distinctive_feature": "Mask-like face markings",
-            "other_name(s)": "Black polecat, western polecat, fitch",
-            "gestation_period": "42 days",
-            "litter_size": "three to seven",
-            "habitat": "Wetlands, marshes, coastal cliffs",
-            "diet": "Carnivore",
-            "type": "Mustelid",
-            "common_name": "European polecat",
-            "number_of_species": "1",
-            "location": "Europe, North Africa, Asia",
-            "group": "solitary",
-            "color": "RedBlackSilver",
-            "skin_type": "Fur",
-            "top_speed": "23 mph",
-            "lifespan": "five to 14 years",
-            "weight": "two to three pounds",
-            "height": "five to six inches",
-            "length": "one to 1 \u00bd feet",
-            "age_of_sexual_maturity": "one year",
-            "age_of_weaning": "three months"
-        }
-    },
-    {
-        "name": "European Wildcat",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Felis",
-            "scientific_name": "Felis catus silvestris"
-        },
-        "locations": [
-            "Europe"
-        ],
-        "characteristics": {
-            "prey": "Rodents, rabbits, hares, small mammals",
-            "name_of_young": "kitten",
-            "group_behavior": "Territorial",
-            "estimated_population_size": "500,000",
-            "biggest_threat": "Shooting by humans",
-            "most_distinctive_feature": "Fluffy tail/looks like a feral cat",
-            "gestation_period": "68 days",
-            "litter_size": "three to six kittens",
-            "habitat": "Mainly forests",
-            "diet": "Omnivore",
-            "common_name": "European wildcat",
-            "number_of_species": "4",
-            "location": "Europe",
-            "group": "solitary",
-            "color": "GreySandy",
-            "lifespan": "12-16 years",
-            "weight": "eight to 18 pounds",
-            "age_of_sexual_maturity": "10-11 months",
-            "age_of_weaning": "five to 10 months"
-        }
-    },
-    {
-        "name": "Fisher Cat",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Mustelidae",
-            "genus": "Pekania",
-            "scientific_name": "Pekania pennanti"
+            "order": "Coleoptera"
         },
         "locations": [
             "North-America"
         ],
         "characteristics": {
-            "prey": "Rodents, hares, shrews, porcupines, birds, fruits, mushrooms, and nuts",
-            "name_of_young": "Kits",
+            "prey": "Fungi",
+            "name_of_young": "Larvae",
             "group_behavior": "Solitary",
-            "estimated_population_size": "100,000",
-            "biggest_threat": "Hunting and habitat loss",
-            "most_distinctive_feature": "The dense, luxurious coat of fur",
-            "other_name(s)": "Fisher, black cat, black fox, and pekan",
-            "gestation_period": "10-12 months",
-            "litter_size": "1-6 kits",
-            "habitat": "Forests",
-            "predators": "Bobcats, lynxes, foxes, and hawks",
+            "most_distinctive_feature": "The long oddly shaped shell",
+            "gestation_period": "one month",
+            "litter_size": "up to 60 eggs",
+            "habitat": "Anywhere with hardwood trees, conifers, and woody shrubs",
+            "predators": "Insects, spiders, reptiles, frogs, mammals, and birds",
             "diet": "Omnivore",
-            "type": "Mammal",
-            "common_name": "Fisher Cat",
-            "number_of_species": "1",
-            "location": "North America",
-            "color": "BrownBlackWhiteGoldSilver",
-            "skin_type": "Fur",
-            "lifespan": "Up to 10 years",
-            "weight": "1.4-6.8kg (3-15lbs)",
-            "height": "Up to 30cm (12in)",
-            "length": "50-63cm (20-25in)",
-            "age_of_sexual_maturity": "1-2 years",
-            "age_of_weaning": "8-16 weeks"
+            "type": "inesct",
+            "common_name": "Ambrosia Beetle",
+            "color": "BrownRedBlack",
+            "skin_type": "Exoskeleton",
+            "lifespan": "up to one year",
+            "weight": "1-5mg",
+            "length": "0.1-0.3in",
+            "age_of_sexual_maturity": "A few weeks or months"
         }
     },
     {
-        "name": "Fishing Cat",
+        "name": "Bee",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Prionailurus",
-            "scientific_name": "Prionailurus viverrinus"
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Hymenoptera",
+            "family": "Andrenidae",
+            "genus": "Apis",
+            "scientific_name": "Apis mellifera"
         },
         "locations": [
-            "Asia"
-        ],
-        "characteristics": {
-            "prey": "Fish, Shellfish, Snakes",
-            "name_of_young": "Kitten",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Less than 10,000",
-            "biggest_threat": "Habitat loss",
-            "most_distinctive_feature": "Long, stocky body and slightly webbed paws",
-            "gestation_period": "63 days",
-            "habitat": "Variety of wetland habitats",
-            "diet": "Carnivore",
-            "average_litter_size": "2",
-            "lifestyle": "Nocturnal",
-            "common_name": "Fishing Cat",
-            "number_of_species": "2",
-            "location": "south-east Asia",
-            "slogan": "Scoops fish out of the water using it's paw!",
-            "group": "Mammal",
-            "color": "BlackOlive-Grey",
-            "skin_type": "Fur",
-            "top_speed": "34 mph",
-            "lifespan": "10 - 12 years",
-            "weight": "5.5kg - 8kg (12lbs - 17.6lbs)",
-            "length": "57cm - 85cm (22.4in - 33.4in)",
-            "age_of_sexual_maturity": "9 - 10 months",
-            "age_of_weaning": "4 - 6 months"
-        }
-    },
-    {
-        "name": "Ghost Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Silurormes",
-            "family": "Siluridae",
-            "genus": "Kryptopterus",
-            "scientific_name": "Kryptopterus vitreolus"
-        },
-        "locations": [
-            "Asia"
-        ],
-        "characteristics": {
-            "prey": "Larvae, worms",
-            "group_behavior": "School",
-            "estimated_population_size": "Unknown",
-            "most_distinctive_feature": "Translucent body",
-            "other_name(s)": "Glass catfish, X-ray fish",
-            "optimum_ph_level": "6.0 - 8.0",
-            "predators": "Larger fish, humans",
-            "diet": "Carnivore",
-            "type": "Siluriformes",
-            "common_name": "Ghost Catfish",
-            "skin_type": "Scales",
-            "weight": "Less than an ounce"
-        }
-    },
-    {
-        "name": "Great Crested Flycatcher",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Aves",
-            "order": "Passeriformes",
-            "family": "Tyrannidae",
-            "genus": "Myiarchus",
-            "scientific_name": "Myiarchus crinitus"
-        },
-        "locations": [
+            "Africa",
+            "Asia",
             "Central-America",
+            "Eurasia",
+            "Europe",
             "North-America",
+            "Oceania",
             "South-America"
         ],
         "characteristics": {
-            "prey": "Insects, spiders, lizards, fruits, and berries",
-            "estimated_population_size": "6.7 million",
-            "biggest_threat": "Habitat loss and poisoning",
-            "most_distinctive_feature": "The crest on the head",
-            "wingspan": "33cm (13in)",
-            "incubation_period": "13-15 days",
-            "habitat": "Woodlands",
-            "predators": "Snakes and squirrels",
+            "name_of_young": "Larva, grub",
+            "group_behavior": "Solitary/Colony",
+            "estimated_population_size": "at least two trillion",
+            "biggest_threat": "Disease, pesticides, habitat destruction",
+            "most_distinctive_feature": "Ability of some to make honey and beeswax",
+            "gestation_period": "three days",
+            "litter_size": "Six to 1000 per day",
+            "habitat": "Any habitat where there are flowering plants",
+            "predators": "Primates, wasps, dragonflies, birds, small mammals",
             "diet": "Omnivore",
-            "type": "Bird",
-            "common_name": "Great Crested Flycatcher",
-            "number_of_species": "1",
-            "location": "United States and Canada, Central and South America",
-            "nesting_location": "Tree cavities",
-            "age_of_molting": "13-15 days",
-            "migratory": "1",
-            "color": "BrownYellowBlue",
-            "lifespan": "Up to 14 years",
-            "weight": "27-40g (0.9-1.4oz)",
-            "height": "17-21cm (6.7-8.3in)"
+            "type": "insect",
+            "common_name": "bee",
+            "location": "everywhere except Antarctica",
+            "color": "Multi-colored",
+            "skin_type": "Exoskeleton",
+            "top_speed": "20 mph"
         }
     },
     {
-        "name": "Hardhead Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Ariidae",
-            "genus": "Ariopsis",
-            "scientific_name": "Ariopsis felis"
-        },
-        "locations": [
-            "Ocean"
-        ],
-        "characteristics": {
-            "prey": "Algae, sea grasses, sea cucumbers, shrimp, crabs, gastropods, and fish",
-            "group_behavior": "School",
-            "biggest_threat": "Habitat changes",
-            "most_distinctive_feature": "The six long whiskers near the mouth",
-            "other_name(s)": "Saltwater catfish, sea catfish, and tourist trout",
-            "gestation_period": "30 days",
-            "optimum_ph_level": "8",
-            "habitat": "Oceans and estuaries",
-            "diet": "Omnivore",
-            "type": "ray-finned fish",
-            "common_name": "Hardhead Catfish",
-            "number_of_species": "-2",
-            "group": "school",
-            "color": "BrownBlueWhiteSilver",
-            "skin_type": "Skin",
-            "lifespan": "5 \u2013 8 years",
-            "weight": "1-12 pounds",
-            "length": "12-27 inches"
-        }
-    },
-    {
-        "name": "Highland Cattle",
+        "name": "Beefalo",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
             "class": "Mammalia",
             "order": "Artiodactyla",
             "family": "Bovidae",
-            "genus": "Bos",
-            "scientific_name": "Bos Taurus"
+            "genus": "Bos x Bison",
+            "scientific_name": "Bos taurus \u00d7 Bison bison"
         },
         "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "name_of_young": "Calf",
+            "group_behavior": "Herd",
+            "estimated_population_size": "Unknown",
+            "biggest_threat": "Lack of fertile hybrid bulls",
+            "distinctive_feature": "Looks like cattle but is hardier physically and health-wise",
+            "other_name(s)": "Cattalo",
+            "gestation_period": "283 days",
+            "litter_size": "1",
+            "habitat": "Farms",
+            "predators": "Humans",
+            "diet": "Herbivore",
+            "type": "Bovid",
+            "common_name": "Beefalo",
+            "number_of_species": "1",
+            "location": "North America",
+            "group": "Herd",
+            "color": "FawnRedBlack",
+            "skin_type": "Hair",
+            "lifespan": "25",
+            "weight": "900-2,000 pounds",
+            "height": "4.6 ft",
+            "age_of_sexual_maturity": "6-15 months",
+            "age_of_weaning": "205 days"
+        }
+    },
+    {
+        "name": "Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Endopterygota",
+            "family": "Coleoptera"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Insects, Dust, Dung",
+            "habitat": "Most land and freshwater habitats",
+            "predators": "Bats, Frogs, Reptiles",
+            "diet": "Omnivore",
+            "average_litter_size": "200",
+            "favorite_food": "Insects",
+            "common_name": "Beetle",
+            "number_of_species": "350000",
+            "location": "Worldwide",
+            "color": "BrownYellowRedBlueBlackGreen",
+            "skin_type": "Shell"
+        }
+    },
+    {
+        "name": "Biscuit Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Ptinidae",
+            "genus": "Stegobium",
+            "scientific_name": "Stegobium paniceum"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "most_distinctive_feature": "The grooves on the shell",
+            "other_name(s)": "Bread beetle or drugstore beetle",
+            "gestation_period": "A few days",
+            "litter_size": "75 eggs",
+            "habitat": "Homes, warehouses, factories, and anywhere with plant goods",
+            "predators": "Other insects",
+            "diet": "Herbivore",
+            "favorite_food": "Dried plant goods",
+            "type": "Insect",
+            "common_name": "Biscuit Beetle",
+            "number_of_species": "1",
+            "location": "Worldwide",
+            "color": "Tawny",
+            "skin_type": "Exoskeleton",
+            "lifespan": "2-7 months",
+            "weight": "1-5mg",
+            "length": "2-3.5mm (0.1in)",
+            "age_of_sexual_maturity": "6-23 weeks"
+        }
+    },
+    {
+        "name": "Blister Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Meloidae"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "prey": "Plant leaves, parts of flowers, pollen and plant nectar. Some blister beetle larvae consume grasshopper eggs and feed on immature bees",
+            "distinctive_feature": "A broad head that's wider than its neck.",
+            "habitat": "warm or temperate habitats",
+            "diet": "Omnivore",
+            "lifestyle": "NocturnalDiurnal",
+            "number_of_species": "7500",
+            "color": "GreyYellowRedBlueBlackGreenOrange",
+            "lifespan": "1 to 3+ months",
+            "length": "1 cm to 2.5 cm"
+        }
+    },
+    {
+        "name": "Bumblebee",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Hymenoptera",
+            "family": "Apidae",
+            "genus": "Bombus",
+            "scientific_name": "Bombus"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Eurasia",
+            "Europe",
+            "North-America"
+        ],
+        "characteristics": {
+            "main_prey": "Nectar, Pollen, Honey",
+            "habitat": "Quiet forests and pastures",
+            "predators": "Bats, Frogs, Skunks",
+            "diet": "Herbivore",
+            "average_litter_size": "200",
+            "favorite_food": "Nectar",
+            "common_name": "Bumble Bee",
+            "number_of_species": "250",
+            "location": "Northern Hemisphere",
+            "slogan": "The most common species of bee!",
+            "color": "YellowBlackOrange",
+            "skin_type": "Hair"
+        }
+    },
+    {
+        "name": "Common Furniture Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Ptinidae",
+            "genus": "Anobium",
+            "scientific_name": "Anobium punctatum"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "most_distinctive_feature": "The small grooves on the shell covering",
+            "other_name(s)": "Common horse borer and woodworm",
+            "gestation_period": "3-5 weeks",
+            "litter_size": "20-100 eggs",
+            "habitat": "Anywhere with sufficient amounts of wood",
+            "predators": "Birds, mammals, and other animals",
+            "diet": "Herbivore",
+            "favorite_food": "Wood",
+            "type": "Insect",
+            "common_name": "Common Furniture Beetle",
+            "number_of_species": "1",
+            "location": "Worldwide",
+            "color": "Dark BrownTawny",
+            "skin_type": "Exoskeleton",
+            "lifespan": "3-5 years",
+            "weight": "1-10mg",
+            "length": "7mm (0.25in)",
+            "age_of_sexual_maturity": "3-5 years"
+        }
+    },
+    {
+        "name": "Deathwatch Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Ptinidae",
+            "genus": "Xestobium",
+            "scientific_name": "Xestobium rufovillosum"
+        },
+        "locations": [
+            "Africa",
             "Europe",
             "North-America",
             "Oceania"
         ],
         "characteristics": {
-            "main_prey": "Grass, Leaves, Flowers",
-            "habitat": "Mountainous and wet grasslands",
-            "predators": "Human, Wolf, Coyote",
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "biggest_threat": "None",
+            "most_distinctive_feature": "The mottled brown shell",
+            "other_name(s)": "Woodworm",
+            "gestation_period": "A month",
+            "litter_size": "40-80 eggs",
+            "habitat": "Anywhere with wood",
+            "predators": "Mammals, birds, spiders, and other insects",
             "diet": "Herbivore",
-            "average_litter_size": "1",
-            "lifestyle": "Herd",
-            "favorite_food": "Grass",
-            "type": "Mammal",
-            "slogan": "Natively found in the Scottish Highlands!",
-            "color": "BrownTanOrange",
-            "skin_type": "Hair",
-            "top_speed": "25 mph",
-            "lifespan": "15-22 years",
-            "weight": "400-1,000kg (882-2,204lbs)"
+            "favorite_food": "Wood",
+            "type": "Insect",
+            "common_name": "Deathwatch Beetle",
+            "number_of_species": "1",
+            "location": "Europe and North America",
+            "color": "BrownBlackWhite",
+            "skin_type": "Exoskeleton",
+            "lifespan": "2-10 years",
+            "weight": "1-5mg",
+            "length": "5-9mm (0.2-0.4in)",
+            "age_of_sexual_maturity": "2-10 years"
         }
     },
     {
-        "name": "Jaguarundi Cat",
+        "name": "Devils Coach Horse Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Staphylinidae",
+            "genus": "Ocypus",
+            "scientific_name": "Ocypus olens"
+        },
+        "locations": [
+            "Africa",
+            "Europe"
+        ],
+        "characteristics": {
+            "prey": "Insects, worms, snails, and slugs",
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "biggest_threat": "None",
+            "most_distinctive_feature": "The long curling tail",
+            "other_name(s)": "Devil\u2019s footman, devil\u2019s coachman, devil\u2019s steed, and cock-tail beetle",
+            "gestation_period": "30 days",
+            "litter_size": "A single egg at a time",
+            "habitat": "Grasslands, farmlands, woodlands, heathlands, and gardens",
+            "predators": "Other insects",
+            "diet": "Carnivore",
+            "type": "Insect",
+            "common_name": "Devil\u2019s Coach Horse Beetle",
+            "number_of_species": "1",
+            "location": "Europe and North Africa, transplanted elsewhere",
+            "color": "BrownBlack",
+            "skin_type": "Exoskeleton",
+            "lifespan": "A year",
+            "weight": "10-50mg",
+            "length": "2-3.2cm (0.8-1.3in)",
+            "age_of_sexual_maturity": "6-7 months"
+        }
+    },
+    {
+        "name": "Dung Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "prey": "Dung or insects",
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Varies",
+            "biggest_threat": "Predation",
+            "most_distinctive_feature": "Some males have horns on their head",
+            "other_name(s)": "Scarab",
+            "gestation_period": "A few days",
+            "litter_size": "3 to 20 eggs",
+            "habitat": "Forests, grasslands, deserts, prairies, and farmlands",
+            "predators": "Mammals, bird, reptiles, amphibians, and insects",
+            "diet": "Carnivore",
+            "type": "Insect",
+            "common_name": "Dung Beetle",
+            "location": "Worldwide",
+            "color": "RedBlackGreen",
+            "skin_type": "Exoskeleton",
+            "lifespan": "3 - 5 years",
+            "weight": "Up to 3.5 ounces",
+            "length": "1cm - 6cm (0.5in - 2.5in)",
+            "age_of_sexual_maturity": "1 month to 3 years"
+        }
+    },
+    {
+        "name": "European Bee-Eater",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Herpailurus",
-            "scientific_name": "Herpailurus yagouaroundi"
+            "class": "Aves",
+            "order": "Coraciiformes",
+            "family": "Meropidae",
+            "genus": "Merops",
+            "scientific_name": "Merops apiaster"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Eurasia",
+            "Europe"
+        ],
+        "characteristics": {
+            "prey": "insects, bees, hornets",
+            "estimated_population_size": "78 million birds",
+            "biggest_threat": "Parasites",
+            "most_distinctive_feature": "Bright rainbow coloring",
+            "wingspan": "17 - 20 inches",
+            "incubation_period": "3 - 4 weeks",
+            "habitat": "grassland, savannahs",
+            "predators": "owls , snakes , other raptors and reptiles",
+            "diet": "Omnivore",
+            "favorite_food": "insects, primarily bees, wasps and hornets",
+            "type": "Bird",
+            "common_name": "Bee Eater, Bee-Eater",
+            "location": "Europe, Africa & Asia",
+            "nesting_location": "Burrows",
+            "age_of_molting": "8 months",
+            "migratory": "1",
+            "color": "YellowRedBlueBlackWhite",
+            "skin_type": "Feathers",
+            "top_speed": "29 mph",
+            "weight": "1.5 - 3 ounces",
+            "height": "3 inches",
+            "length": "11 inches"
+        }
+    },
+    {
+        "name": "Green Bee-Eater",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Aves",
+            "order": "Coraciiformes",
+            "family": "Meropidae",
+            "genus": "Merops",
+            "scientific_name": "Merops orientalis"
+        },
+        "locations": [
+            "Africa",
+            "Asia",
+            "Eurasia"
+        ],
+        "characteristics": {
+            "main_prey": "Honeybee, Bees, Flying Insects",
+            "distinctive_feature": "Long curved beak and bright green plumage",
+            "wingspan": "29-49cm (11.4-19.3in)",
+            "incubation_period": "14-22 days",
+            "habitat": "Grasslands and open forests",
+            "predators": "Eagles, Storks, Raptors",
+            "diet": "Omnivore",
+            "lifestyle": "Solitary",
+            "type": "Bird",
+            "common_name": "Green Bee-Eater",
+            "average_clutch_size": "4",
+            "slogan": "Mainly eats honeybees!",
+            "color": "BrownYellowBlueBlackWhiteGreenOrange",
+            "skin_type": "Feathers",
+            "top_speed": "26 mph",
+            "lifespan": "12 - 18 years",
+            "weight": "15g - 20g (0.5oz - 0.7oz)",
+            "height": "16cm - 18cm (6.2in - 7in)"
+        }
+    },
+    {
+        "name": "Hercules Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Scarabaeidae",
+            "genus": "Dynastes",
+            "scientific_name": "Dynastes hercules"
         },
         "locations": [
             "Central-America",
             "South-America"
         ],
         "characteristics": {
-            "prey": "Rabbits, frogs, fish, mice",
-            "name_of_young": "Kitten",
-            "group_behavior": "Solitary",
-            "biggest_threat": "Hunting",
-            "most_distinctive_feature": "Light amber colored eyes",
-            "other_name(s)": "Otter cat and weasel cat",
-            "gestation_period": "70-75 days",
-            "litter_size": "1-4",
-            "habitat": "Woodland, swamp, savannah, scrubland",
-            "predators": "Coyote, mountain lion, humans",
-            "diet": "Carnivore",
-            "type": "Mammal",
-            "common_name": "Jaguarundi",
-            "number_of_species": "8",
-            "location": "Central and South America",
-            "group": "Solitary",
-            "color": "BrownGreyRed",
-            "skin_type": "Hair",
-            "top_speed": "40 mph",
-            "lifespan": "15 years",
-            "height": "10-14 inches, shoulder height",
-            "length": "3-4 feet (head to end of tail)",
-            "age_of_sexual_maturity": "2 years",
-            "age_of_weaning": "6 weeks"
-        }
-    },
-    {
-        "name": "Leopard Cat",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Felidae",
-            "genus": "Prionailurus",
-            "scientific_name": "Prionailurus bengalensis"
-        },
-        "locations": [
-            "Asia"
-        ],
-        "characteristics": {
-            "main_prey": "Rodents, Lizards, Insects",
-            "distinctive_feature": "Webbed toes and spotted fur",
-            "habitat": "Tropical forests",
-            "predators": "Leopard, Tiger, Wilddog",
-            "diet": "Carnivore",
-            "average_litter_size": "3",
-            "lifestyle": "Solitary",
-            "favorite_food": "Rodents",
-            "type": "Mammal",
-            "slogan": "There are 11 different species!",
-            "color": "GreyYellowBlackWhite",
-            "skin_type": "Fur",
-            "top_speed": "45 mph",
-            "lifespan": "10 - 13 years",
-            "weight": "2.2kg - 7.5kg (4.9lbs - 17lbs)",
-            "length": "46cm - 65cm (18in - 26in)"
-        }
-    },
-    {
-        "name": "Mekong Giant Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Pangasiidae",
-            "genus": "Pangasianodon",
-            "scientific_name": "Pangasianodon gigas"
-        },
-        "locations": [
-            "Asia"
-        ],
-        "characteristics": {
-            "prey": "Plants, algae, and zooplankton",
+            "name_of_young": "Larva or grub",
             "group_behavior": "Mainly solitary",
-            "estimated_population_size": "A few hundred",
-            "biggest_threat": "Damming",
-            "most_distinctive_feature": "Low-set eyes",
-            "other_name(s)": "Pa beuk (in Laos)",
-            "water_type": "Fresh",
-            "optimum_ph_level": "Unknown",
-            "habitat": "Mekong River",
-            "predators": "Humans",
+            "estimated_population_size": "Unknown, but the beetle does not have special conservation status.",
+            "biggest_threat": "Habitat destruction and pollution",
+            "distinctive_feature": "Hard, armoured shell and horn-like pincers",
+            "gestation_period": "30 days",
+            "litter_size": "100",
+            "habitat": "Rainforests of the mountains and lowlands",
+            "predators": "Bats, Rats, Birds",
             "diet": "Herbivore",
-            "type": " Ray-finned fish",
-            "common_name": "Mekong Giant Catfish",
-            "number_of_species": "1",
-            "color": "GreyWhite",
-            "skin_type": "Skin",
-            "lifespan": "60 years",
-            "weight": "Up to 646 lbs, possibly more",
-            "length": "Up to 10 ft"
+            "average_litter_size": "100",
+            "favorite_food": "Decaying wood",
+            "type": "Insect",
+            "common_name": "Hercules Beetle",
+            "number_of_species": "10",
+            "location": "South and Central America and the Lesser Antilles",
+            "color": "YellowBlackGreen",
+            "skin_type": "Exoskeleton",
+            "top_speed": "8.9 mph",
+            "lifespan": "Two and a half years, in total",
+            "weight": "1.2 ounces for male, 0.57 ounces for female",
+            "length": "Average 2.43 inches for females, 3 inches for male plus horns longer than body. There have been rumors of a male that was 7.09 inches long.",
+            "age_of_sexual_maturity": "15 to 22 months"
         }
     },
     {
-        "name": "Polecat",
+        "name": "Honey Bee",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Mammalia",
-            "order": "Carnivora",
-            "family": "Mustelidae",
-            "genus": "Mustela",
-            "scientific_name": "Mustela putorius"
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Hymenoptera",
+            "family": "Apidae",
+            "genus": "Apis"
         },
         "locations": [
             "Africa",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Nectar, Pollen, Honey",
+            "habitat": "Sheltered forests and meadows",
+            "diet": "Herbivore",
+            "average_litter_size": "200",
+            "favorite_food": "Nectar",
+            "common_name": "Honey Bee",
+            "number_of_species": "8",
+            "location": "Worldwide",
+            "slogan": "There are only 8 recognized species!",
+            "color": "BrownYellowBlack",
+            "skin_type": "Hair"
+        }
+    },
+    {
+        "name": "Jackabee",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "genus": "Canis",
+            "scientific_name": "Canis lupus"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "temperament": "Friendly, intelligent, and hard-working",
+            "diet": "Omnivore",
+            "color": "BrownWhiteTanCreamBeige",
+            "skin_type": "Hair",
+            "lifespan": "12-16 years",
+            "weight": "30 lbs"
+        }
+    },
+    {
+        "name": "Japanese Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Scarabaeidae",
+            "genus": "Popillia",
+            "scientific_name": "Popillia japonica"
+        },
+        "locations": [
             "Asia",
             "Europe",
             "North-America"
         ],
         "characteristics": {
-            "prey": "Rodents, birds, frogs, lizards",
-            "name_of_young": "Kit",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "Habitat loss",
-            "most_distinctive_feature": "Long, slender body",
-            "other_name(s)": "Chicken cat",
-            "gestation_period": "42 days",
-            "litter_size": "3 to 7",
-            "habitat": "Grassland, wetlands, forest, steppe, woodlands",
-            "predators": "Humans",
-            "diet": "Carnivore",
-            "lifestyle": "Solitary",
-            "type": "Mammal",
-            "common_name": "Polecat",
-            "number_of_species": "5",
-            "location": "Europe, Africa, Asia, North America",
-            "color": "BrownGreyBlackWhite",
-            "skin_type": "Hair",
-            "top_speed": "15 mph",
-            "lifespan": "6-14 years",
-            "weight": "2 to 3.5 pounds",
-            "length": "14 to 20 inches",
-            "age_of_sexual_maturity": "1 year",
-            "age_of_weaning": "30 days"
+            "name_of_young": "Larvae or grubs",
+            "group_behavior": "Swarm",
+            "estimated_population_size": "Millions (unknown population)",
+            "biggest_threat": "Natural predators and insecticide.",
+            "most_distinctive_feature": "Metallic green and copper body.",
+            "gestation_period": "1-2 weeks (from laying eggs to hatching)",
+            "litter_size": "1-5 eggs",
+            "habitat": "Forests, grasslands, farms, cities, and anywhere they can eat.",
+            "predators": "Wild birds, raccoons, moles, spiders, other insects.",
+            "diet": "Herbivore",
+            "favorite_food": "Plant life and fruits",
+            "type": "Insect",
+            "common_name": "Japanese beetle",
+            "number_of_species": "1",
+            "location": "Native to Asia, but also found in Canada and United States",
+            "group": "Large groups and swarms",
+            "color": "GreenGolden",
+            "skin_type": "Exoskeleton",
+            "lifespan": "Approximately 1 year (varies by temperature)",
+            "weight": "0.0825 grams",
+            "length": "15 mm",
+            "age_of_sexual_maturity": "2 weeks after hatching"
         }
     },
     {
-        "name": "Redtail Catfish",
+        "name": "Squash Beetle",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Pimelodidae",
-            "genus": "Phractocephalus",
-            "scientific_name": "Phractocephalus hemioliopterus"
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Coccinellidae",
+            "genus": "Epilachna",
+            "scientific_name": "Epilachna borealis"
         },
         "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "name_of_young": "Nymphs",
+            "group_behavior": "Colony",
+            "estimated_population_size": "unknown",
+            "biggest_threat": "Pest control by humans",
+            "most_distinctive_feature": "Shield-like body",
+            "other_name(s)": "Squash lady beetle, squash ladybugs",
+            "gestation_period": "10 days",
+            "litter_size": "15-40 eggs",
+            "habitat": "Under plant debris, near buildings, near rocks, and other sheltered places",
+            "predators": "Tachinid fly, sceleonids, and praying mantises",
+            "diet": "Herbivore",
+            "favorite_food": "Leaves, vines, fruit",
+            "type": "Insect",
+            "common_name": "Squash beetle",
+            "number_of_species": "1",
+            "location": "North America",
+            "color": "YellowBlack",
+            "skin_type": "Exoskeleton",
+            "lifespan": "2-6 months",
+            "length": "3/8 inch",
+            "age_of_sexual_maturity": "Less than 1 year old"
+        }
+    },
+    {
+        "name": "Stag Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Lucanidae"
+        },
+        "locations": [
+            "Europe",
+            "North-America"
+        ],
+        "characteristics": {
+            "prey": "Rotting wood, fruits, and sap",
+            "name_of_young": "Larvae",
+            "group_behavior": "Solitary",
+            "biggest_threat": "Habitat loss",
+            "most_distinctive_feature": "The massive mandibles of the male",
+            "gestation_period": "A few days",
+            "litter_size": "30 eggs",
+            "habitat": "Loose soil of deserts, forests, grasslands, and more",
+            "predators": "Mammals, bird, reptiles, amphibians, and insects",
+            "diet": "Herbivore",
+            "average_litter_size": "100",
+            "type": "Insect",
+            "common_name": "Stag Beetle",
+            "number_of_species": "1200",
+            "location": "Europe, North America",
+            "color": "BrownRedBlackGreen",
+            "skin_type": "Exoskeleton",
+            "lifespan": "3-7 years",
+            "weight": "Up to 0.5 grams",
+            "length": "1cm \u2013 12.3cm (0.5in - 5in)"
+        }
+    },
+    {
+        "name": "Tiger Beetle",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "class": "Insecta",
+            "order": "Coleoptera",
+            "family": "Carabidae",
+            "genus": "Cicindela",
+            "scientific_name": "Cicindelinae"
+        },
+        "locations": [
+            "Africa",
+            "Antarctica",
+            "Asia",
+            "Central-America",
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Oceania",
             "South-America"
         ],
         "characteristics": {
-            "prey": "Fish, worms, crabs, shrimp, insects",
+            "prey": "spiders and insects",
+            "name_of_young": "larvae",
             "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "Humans",
-            "most_distinctive_feature": "Red fins",
-            "gestation_period": "4 to 5 days",
-            "water_type": "Fresh",
-            "habitat": "Rivers, streams",
-            "predators": "Humans",
+            "biggest_threat": "Habitat destruction",
+            "most_distinctive_feature": "The iridescent metallic shell",
+            "gestation_period": "a few days or weeks",
+            "litter_size": "3-4 eggs per day",
+            "habitat": "ground",
             "diet": "Carnivore",
-            "type": "Fish",
-            "common_name": "Redtailed catfish",
-            "number_of_species": "1",
-            "color": "BrownRedBlack",
-            "skin_type": "Scales",
-            "lifespan": "10 to 15 years",
-            "weight": "40 to 90 pounds",
-            "length": "3 to 6 feet"
+            "type": "insect",
+            "common_name": "Tiger beetle",
+            "number_of_species": "2600",
+            "location": "worldwide",
+            "color": "RedBlueBlackWhiteGreenOrange",
+            "skin_type": "Exoskeleton",
+            "top_speed": "3.5 mph",
+            "lifespan": "1-4 years",
+            "weight": "less than 1 gram",
+            "length": "up to 1 inch",
+            "age_of_sexual_maturity": "1-4 years"
         }
     },
     {
-        "name": "Sulcata Tortoise",
+        "name": "Wildebeest",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
-            "class": "Reptilia",
-            "order": "Testudines",
-            "family": "Testudinidae",
-            "genus": "Centrochelys",
-            "scientific_name": "Centrochelys sulcata"
+            "class": "Mammalia",
+            "order": "Artiodactyla",
+            "family": "Bovidae",
+            "genus": "Connochaetes",
+            "scientific_name": "Connochaetes Taurinus"
         },
         "locations": [
             "Africa"
         ],
         "characteristics": {
-            "name_of_young": "Hatchling",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown, but the animal is listed as vulnerable or endangered",
-            "biggest_threat": "Hunting, poaching, habitat destruction",
-            "most_distinctive_feature": "Its size",
-            "other_name(s)": "African spurred tortoise",
-            "gestation_period": "About 75 days",
-            "litter_size": "15 to 30",
-            "habitat": "Desert, dry savanna",
-            "predators": "Humans",
+            "main_prey": "Grass, Leaves, Shoots",
+            "habitat": "Grass plains and bush covered savanna",
+            "predators": "Lion, Cheetah, Crocodile",
             "diet": "Herbivore",
-            "type": "Reptile",
-            "common_name": "African spurred tortoise, spurred tortoise, African spur thigh tortoise",
-            "number_of_species": "1",
-            "location": "Southern part of the Sahara Desert",
-            "color": "BrownYellow",
-            "skin_type": "Hard Shell",
-            "top_speed": "0.3 mph",
-            "lifespan": "More than 70 years",
-            "weight": "79 to 200 pounds",
-            "length": "30 inches",
-            "age_of_sexual_maturity": "15 years of age"
-        }
-    },
-    {
-        "name": "Walking Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Clariidae",
-            "genus": "Clarias",
-            "scientific_name": "Clarias batrachus"
-        },
-        "locations": [
-            "Asia"
-        ],
-        "characteristics": {
-            "prey": "Mollusks, fish, insects, plants, and plankton",
-            "group_behavior": "Solitary",
-            "biggest_threat": "Overfishing",
-            "most_distinctive_feature": "The four pairs of long barbels",
-            "other_name(s)": "Air-breathing catfish",
-            "gestation_period": "24 hours",
-            "water_type": "Fresh",
-            "optimum_ph_level": "Up to 10",
-            "habitat": "Rivers, streams, swamps, and ponds",
-            "predators": "Crocodiles, birds, and large mammals",
-            "diet": "Omnivore",
-            "type": "Fish",
-            "common_name": "Walking Catfish",
-            "number_of_species": "1",
-            "color": "BrownGreyWhite",
-            "skin_type": "Skin",
-            "lifespan": "Unknown",
-            "weight": "2lbs",
-            "length": "8cm - 47m (3in - 18in)"
-        }
-    },
-    {
-        "name": "Wels Catfish",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Actinopterygii",
-            "order": "Siluriformes",
-            "family": "Siluridae",
-            "genus": "Silurus",
-            "scientific_name": "Silurus glanis"
-        },
-        "locations": [
-            "Europe"
-        ],
-        "characteristics": {
-            "prey": "Snails, worms, crustaceans, insects, fish, and birds",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "Overfishing",
-            "most_distinctive_feature": "The barbels (whiskers) on the face",
-            "other_name(s)": "Sheatfish",
-            "gestation_period": "3-10 days",
-            "water_type": "Fresh",
-            "optimum_ph_level": "unknown",
-            "habitat": "rivers and lakes",
-            "predators": "Humans and pike",
-            "diet": "Omnivore",
-            "type": "ray-finned fish",
-            "common_name": "wels catfish",
-            "number_of_species": "1",
-            "color": "BrownGreyWhiteGreen",
-            "lifespan": "up to 80 years",
-            "weight": "Up to 500 lbs",
-            "length": "Up to 10 feet"
+            "average_litter_size": "1",
+            "lifestyle": "Herd",
+            "favorite_food": "Grass",
+            "type": "Mammal",
+            "slogan": "Can trek more than 1,000 miles every year!",
+            "color": "BrownBlackTan",
+            "skin_type": "Hair",
+            "top_speed": "38 mph",
+            "lifespan": "15-20 years",
+            "weight": "120-250kg (265-550lbs)"
         }
     }
 ]
