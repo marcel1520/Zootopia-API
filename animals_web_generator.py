@@ -1,8 +1,14 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
 
 
-API_KEY = "xyFODdLjB3Sc18vg4Ro2rw==6shJ5CyYvlDCOHad"
+
+load_dotenv(".env")
+API_KEY = os.getenv("API_KEY")
+
+print(API_KEY)
 
 
 def get_user_animal(user_animal):

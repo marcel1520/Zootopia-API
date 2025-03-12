@@ -1,573 +1,88 @@
 [
     {
-        "name": "Ambrosia Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera"
-        },
-        "locations": [
-            "North-America"
-        ],
-        "characteristics": {
-            "prey": "Fungi",
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "most_distinctive_feature": "The long oddly shaped shell",
-            "gestation_period": "one month",
-            "litter_size": "up to 60 eggs",
-            "habitat": "Anywhere with hardwood trees, conifers, and woody shrubs",
-            "predators": "Insects, spiders, reptiles, frogs, mammals, and birds",
-            "diet": "Omnivore",
-            "type": "inesct",
-            "common_name": "Ambrosia Beetle",
-            "color": "BrownRedBlack",
-            "skin_type": "Exoskeleton",
-            "lifespan": "up to one year",
-            "weight": "1-5mg",
-            "length": "0.1-0.3in",
-            "age_of_sexual_maturity": "A few weeks or months"
-        }
-    },
-    {
-        "name": "Bee",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Hymenoptera",
-            "family": "Andrenidae",
-            "genus": "Apis",
-            "scientific_name": "Apis mellifera"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Larva, grub",
-            "group_behavior": "Solitary/Colony",
-            "estimated_population_size": "at least two trillion",
-            "biggest_threat": "Disease, pesticides, habitat destruction",
-            "most_distinctive_feature": "Ability of some to make honey and beeswax",
-            "gestation_period": "three days",
-            "litter_size": "Six to 1000 per day",
-            "habitat": "Any habitat where there are flowering plants",
-            "predators": "Primates, wasps, dragonflies, birds, small mammals",
-            "diet": "Omnivore",
-            "type": "insect",
-            "common_name": "bee",
-            "location": "everywhere except Antarctica",
-            "color": "Multi-colored",
-            "skin_type": "Exoskeleton",
-            "top_speed": "20 mph"
-        }
-    },
-    {
-        "name": "Beefalo",
+        "name": "Asiatic Black Bear",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
             "class": "Mammalia",
-            "order": "Artiodactyla",
-            "family": "Bovidae",
-            "genus": "Bos x Bison",
-            "scientific_name": "Bos taurus \u00d7 Bison bison"
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursus tibetanus"
         },
         "locations": [
-            "North-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Calf",
-            "group_behavior": "Herd",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "Lack of fertile hybrid bulls",
-            "distinctive_feature": "Looks like cattle but is hardier physically and health-wise",
-            "other_name(s)": "Cattalo",
-            "gestation_period": "283 days",
-            "litter_size": "1",
-            "habitat": "Farms",
-            "predators": "Humans",
-            "diet": "Herbivore",
-            "type": "Bovid",
-            "common_name": "Beefalo",
-            "number_of_species": "1",
-            "location": "North America",
-            "group": "Herd",
-            "color": "FawnRedBlack",
-            "skin_type": "Hair",
-            "lifespan": "25",
-            "weight": "900-2,000 pounds",
-            "height": "4.6 ft",
-            "age_of_sexual_maturity": "6-15 months",
-            "age_of_weaning": "205 days"
-        }
-    },
-    {
-        "name": "Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Endopterygota",
-            "family": "Coleoptera"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "main_prey": "Insects, Dust, Dung",
-            "habitat": "Most land and freshwater habitats",
-            "predators": "Bats, Frogs, Reptiles",
-            "diet": "Omnivore",
-            "average_litter_size": "200",
-            "favorite_food": "Insects",
-            "common_name": "Beetle",
-            "number_of_species": "350000",
-            "location": "Worldwide",
-            "color": "BrownYellowRedBlueBlackGreen",
-            "skin_type": "Shell"
-        }
-    },
-    {
-        "name": "Biscuit Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Ptinidae",
-            "genus": "Stegobium",
-            "scientific_name": "Stegobium paniceum"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "most_distinctive_feature": "The grooves on the shell",
-            "other_name(s)": "Bread beetle or drugstore beetle",
-            "gestation_period": "A few days",
-            "litter_size": "75 eggs",
-            "habitat": "Homes, warehouses, factories, and anywhere with plant goods",
-            "predators": "Other insects",
-            "diet": "Herbivore",
-            "favorite_food": "Dried plant goods",
-            "type": "Insect",
-            "common_name": "Biscuit Beetle",
-            "number_of_species": "1",
-            "location": "Worldwide",
-            "color": "Tawny",
-            "skin_type": "Exoskeleton",
-            "lifespan": "2-7 months",
-            "weight": "1-5mg",
-            "length": "2-3.5mm (0.1in)",
-            "age_of_sexual_maturity": "6-23 weeks"
-        }
-    },
-    {
-        "name": "Blister Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Meloidae"
-        },
-        "locations": [
-            "North-America"
-        ],
-        "characteristics": {
-            "prey": "Plant leaves, parts of flowers, pollen and plant nectar. Some blister beetle larvae consume grasshopper eggs and feed on immature bees",
-            "distinctive_feature": "A broad head that's wider than its neck.",
-            "habitat": "warm or temperate habitats",
-            "diet": "Omnivore",
-            "lifestyle": "NocturnalDiurnal",
-            "number_of_species": "7500",
-            "color": "GreyYellowRedBlueBlackGreenOrange",
-            "lifespan": "1 to 3+ months",
-            "length": "1 cm to 2.5 cm"
-        }
-    },
-    {
-        "name": "Bumblebee",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Hymenoptera",
-            "family": "Apidae",
-            "genus": "Bombus",
-            "scientific_name": "Bombus"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Eurasia",
-            "Europe",
-            "North-America"
-        ],
-        "characteristics": {
-            "main_prey": "Nectar, Pollen, Honey",
-            "habitat": "Quiet forests and pastures",
-            "predators": "Bats, Frogs, Skunks",
-            "diet": "Herbivore",
-            "average_litter_size": "200",
-            "favorite_food": "Nectar",
-            "common_name": "Bumble Bee",
-            "number_of_species": "250",
-            "location": "Northern Hemisphere",
-            "slogan": "The most common species of bee!",
-            "color": "YellowBlackOrange",
-            "skin_type": "Hair"
-        }
-    },
-    {
-        "name": "Common Furniture Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Ptinidae",
-            "genus": "Anobium",
-            "scientific_name": "Anobium punctatum"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "most_distinctive_feature": "The small grooves on the shell covering",
-            "other_name(s)": "Common horse borer and woodworm",
-            "gestation_period": "3-5 weeks",
-            "litter_size": "20-100 eggs",
-            "habitat": "Anywhere with sufficient amounts of wood",
-            "predators": "Birds, mammals, and other animals",
-            "diet": "Herbivore",
-            "favorite_food": "Wood",
-            "type": "Insect",
-            "common_name": "Common Furniture Beetle",
-            "number_of_species": "1",
-            "location": "Worldwide",
-            "color": "Dark BrownTawny",
-            "skin_type": "Exoskeleton",
-            "lifespan": "3-5 years",
-            "weight": "1-10mg",
-            "length": "7mm (0.25in)",
-            "age_of_sexual_maturity": "3-5 years"
-        }
-    },
-    {
-        "name": "Deathwatch Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Ptinidae",
-            "genus": "Xestobium",
-            "scientific_name": "Xestobium rufovillosum"
-        },
-        "locations": [
-            "Africa",
-            "Europe",
-            "North-America",
-            "Oceania"
-        ],
-        "characteristics": {
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Unknown",
-            "biggest_threat": "None",
-            "most_distinctive_feature": "The mottled brown shell",
-            "other_name(s)": "Woodworm",
-            "gestation_period": "A month",
-            "litter_size": "40-80 eggs",
-            "habitat": "Anywhere with wood",
-            "predators": "Mammals, birds, spiders, and other insects",
-            "diet": "Herbivore",
-            "favorite_food": "Wood",
-            "type": "Insect",
-            "common_name": "Deathwatch Beetle",
-            "number_of_species": "1",
-            "location": "Europe and North America",
-            "color": "BrownBlackWhite",
-            "skin_type": "Exoskeleton",
-            "lifespan": "2-10 years",
-            "weight": "1-5mg",
-            "length": "5-9mm (0.2-0.4in)",
-            "age_of_sexual_maturity": "2-10 years"
-        }
-    },
-    {
-        "name": "Devils Coach Horse Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Staphylinidae",
-            "genus": "Ocypus",
-            "scientific_name": "Ocypus olens"
-        },
-        "locations": [
-            "Africa",
-            "Europe"
-        ],
-        "characteristics": {
-            "prey": "Insects, worms, snails, and slugs",
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "biggest_threat": "None",
-            "most_distinctive_feature": "The long curling tail",
-            "other_name(s)": "Devil\u2019s footman, devil\u2019s coachman, devil\u2019s steed, and cock-tail beetle",
-            "gestation_period": "30 days",
-            "litter_size": "A single egg at a time",
-            "habitat": "Grasslands, farmlands, woodlands, heathlands, and gardens",
-            "predators": "Other insects",
-            "diet": "Carnivore",
-            "type": "Insect",
-            "common_name": "Devil\u2019s Coach Horse Beetle",
-            "number_of_species": "1",
-            "location": "Europe and North Africa, transplanted elsewhere",
-            "color": "BrownBlack",
-            "skin_type": "Exoskeleton",
-            "lifespan": "A year",
-            "weight": "10-50mg",
-            "length": "2-3.2cm (0.8-1.3in)",
-            "age_of_sexual_maturity": "6-7 months"
-        }
-    },
-    {
-        "name": "Dung Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
-        ],
-        "characteristics": {
-            "prey": "Dung or insects",
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "estimated_population_size": "Varies",
-            "biggest_threat": "Predation",
-            "most_distinctive_feature": "Some males have horns on their head",
-            "other_name(s)": "Scarab",
-            "gestation_period": "A few days",
-            "litter_size": "3 to 20 eggs",
-            "habitat": "Forests, grasslands, deserts, prairies, and farmlands",
-            "predators": "Mammals, bird, reptiles, amphibians, and insects",
-            "diet": "Carnivore",
-            "type": "Insect",
-            "common_name": "Dung Beetle",
-            "location": "Worldwide",
-            "color": "RedBlackGreen",
-            "skin_type": "Exoskeleton",
-            "lifespan": "3 - 5 years",
-            "weight": "Up to 3.5 ounces",
-            "length": "1cm - 6cm (0.5in - 2.5in)",
-            "age_of_sexual_maturity": "1 month to 3 years"
-        }
-    },
-    {
-        "name": "European Bee-Eater",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Aves",
-            "order": "Coraciiformes",
-            "family": "Meropidae",
-            "genus": "Merops",
-            "scientific_name": "Merops apiaster"
-        },
-        "locations": [
-            "Africa",
-            "Asia",
-            "Eurasia",
-            "Europe"
-        ],
-        "characteristics": {
-            "prey": "insects, bees, hornets",
-            "estimated_population_size": "78 million birds",
-            "biggest_threat": "Parasites",
-            "most_distinctive_feature": "Bright rainbow coloring",
-            "wingspan": "17 - 20 inches",
-            "incubation_period": "3 - 4 weeks",
-            "habitat": "grassland, savannahs",
-            "predators": "owls , snakes , other raptors and reptiles",
-            "diet": "Omnivore",
-            "favorite_food": "insects, primarily bees, wasps and hornets",
-            "type": "Bird",
-            "common_name": "Bee Eater, Bee-Eater",
-            "location": "Europe, Africa & Asia",
-            "nesting_location": "Burrows",
-            "age_of_molting": "8 months",
-            "migratory": "1",
-            "color": "YellowRedBlueBlackWhite",
-            "skin_type": "Feathers",
-            "top_speed": "29 mph",
-            "weight": "1.5 - 3 ounces",
-            "height": "3 inches",
-            "length": "11 inches"
-        }
-    },
-    {
-        "name": "Green Bee-Eater",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Chordata",
-            "class": "Aves",
-            "order": "Coraciiformes",
-            "family": "Meropidae",
-            "genus": "Merops",
-            "scientific_name": "Merops orientalis"
-        },
-        "locations": [
-            "Africa",
             "Asia",
             "Eurasia"
         ],
         "characteristics": {
-            "main_prey": "Honeybee, Bees, Flying Insects",
-            "distinctive_feature": "Long curved beak and bright green plumage",
-            "wingspan": "29-49cm (11.4-19.3in)",
-            "incubation_period": "14-22 days",
-            "habitat": "Grasslands and open forests",
-            "predators": "Eagles, Storks, Raptors",
+            "prey": "Nuts, Fruits, Insects",
+            "name_of_young": "Cub",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "50,000",
+            "biggest_threat": "Hunting and Habitat loss",
+            "most_distinctive_feature": "Distinctive v-shaped marking on chest",
+            "other_name(s)": "Asian Black Bear, Himalayan Black Bear, Tibetan Black Bear, Moon Bear",
+            "gestation_period": "6 - 8 months",
+            "habitat": "Deciduous Tropical Forest",
+            "predators": "Tiger, Wolves, Humans",
             "diet": "Omnivore",
-            "lifestyle": "Solitary",
-            "type": "Bird",
-            "common_name": "Green Bee-Eater",
-            "average_clutch_size": "4",
-            "slogan": "Mainly eats honeybees!",
-            "color": "BrownYellowBlueBlackWhiteGreenOrange",
-            "skin_type": "Feathers",
-            "top_speed": "26 mph",
-            "lifespan": "12 - 18 years",
-            "weight": "15g - 20g (0.5oz - 0.7oz)",
-            "height": "16cm - 18cm (6.2in - 7in)"
+            "average_litter_size": "2",
+            "lifestyle": "Nocturnal",
+            "common_name": "Asiatic Black Bear",
+            "number_of_species": "7",
+            "location": "Central and Southern Asia, Russia and Japan",
+            "slogan": "Known to eat 160 different tree-borne fruits in Thailand!",
+            "group": "Mammal",
+            "color": "BrownBlackWhite",
+            "skin_type": "Fur",
+            "top_speed": "25 mph",
+            "lifespan": "15 - 25 years",
+            "weight": "90kg - 115kg (198lbs - 253lbs)",
+            "height": "1.2m - 1.9m (4ft - 6.25ft)",
+            "age_of_sexual_maturity": "4 - 5 years",
+            "age_of_weaning": "6 months"
         }
     },
     {
-        "name": "Hercules Beetle",
+        "name": "Bear",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Scarabaeidae",
-            "genus": "Dynastes",
-            "scientific_name": "Dynastes hercules"
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursidae"
         },
         "locations": [
-            "Central-America",
-            "South-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Larva or grub",
-            "group_behavior": "Mainly solitary",
-            "estimated_population_size": "Unknown, but the beetle does not have special conservation status.",
-            "biggest_threat": "Habitat destruction and pollution",
-            "distinctive_feature": "Hard, armoured shell and horn-like pincers",
-            "gestation_period": "30 days",
-            "litter_size": "100",
-            "habitat": "Rainforests of the mountains and lowlands",
-            "predators": "Bats, Rats, Birds",
-            "diet": "Herbivore",
-            "average_litter_size": "100",
-            "favorite_food": "Decaying wood",
-            "type": "Insect",
-            "common_name": "Hercules Beetle",
-            "number_of_species": "10",
-            "location": "South and Central America and the Lesser Antilles",
-            "color": "YellowBlackGreen",
-            "skin_type": "Exoskeleton",
-            "top_speed": "8.9 mph",
-            "lifespan": "Two and a half years, in total",
-            "weight": "1.2 ounces for male, 0.57 ounces for female",
-            "length": "Average 2.43 inches for females, 3 inches for male plus horns longer than body. There have been rumors of a male that was 7.09 inches long.",
-            "age_of_sexual_maturity": "15 to 22 months"
-        }
-    },
-    {
-        "name": "Honey Bee",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Hymenoptera",
-            "family": "Apidae",
-            "genus": "Apis"
-        },
-        "locations": [
-            "Africa",
             "Asia",
             "Central-America",
             "Eurasia",
             "Europe",
             "North-America",
-            "Oceania",
             "South-America"
         ],
         "characteristics": {
-            "main_prey": "Nectar, Pollen, Honey",
-            "habitat": "Sheltered forests and meadows",
-            "diet": "Herbivore",
-            "average_litter_size": "200",
-            "favorite_food": "Nectar",
-            "common_name": "Honey Bee",
-            "number_of_species": "8",
-            "location": "Worldwide",
-            "slogan": "There are only 8 recognized species!",
-            "color": "BrownYellowBlack",
-            "skin_type": "Hair"
+            "main_prey": "Fish, Nectar, Insects",
+            "distinctive_feature": "Large teeth and paws and strong body",
+            "habitat": "Forest and mountainous regions",
+            "predators": "Human, Wolf, Wildcats",
+            "diet": "Omnivore",
+            "average_litter_size": "2",
+            "lifestyle": "Solitary",
+            "favorite_food": "Fish",
+            "type": "Mammal",
+            "slogan": "There are 8 different species!",
+            "color": "BrownBlackWhite",
+            "skin_type": "Fur",
+            "top_speed": "35 mph",
+            "lifespan": "15 - 35 years",
+            "weight": "27kg - 450kg (60lbs - 990lbs)",
+            "height": "1.2m - 3.3m (4ft - 11ft)"
         }
     },
     {
-        "name": "Jackabee",
+        "name": "Bearded Collie",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
@@ -578,206 +93,430 @@
             "scientific_name": "Canis lupus"
         },
         "locations": [
-            "North-America"
+            "Europe"
         ],
         "characteristics": {
-            "temperament": "Friendly, intelligent, and hard-working",
+            "temperament": "Loving, lively and playful",
+            "training": "Should be trained from an early age and respond well to harsh techniques",
             "diet": "Omnivore",
-            "color": "BrownWhiteTanCreamBeige",
-            "skin_type": "Hair",
-            "lifespan": "12-16 years",
-            "weight": "30 lbs"
+            "average_litter_size": "7",
+            "common_name": "Bearded Collie",
+            "slogan": "Weekly brushing is mandatory!",
+            "group": "Herd",
+            "color": "BrownGreyBlackWhiteTan",
+            "skin_type": "Hair"
         }
     },
     {
-        "name": "Japanese Beetle",
+        "name": "Bearded Dragon",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Scarabaeidae",
-            "genus": "Popillia",
-            "scientific_name": "Popillia japonica"
+            "phylum": "Chordata",
+            "class": "Reptilia",
+            "order": "Squamata",
+            "family": "Agamidae",
+            "genus": "Pogona",
+            "scientific_name": "Pogona Vitticeps"
         },
         "locations": [
-            "Asia",
-            "Europe",
-            "North-America"
+            "Oceania"
         ],
         "characteristics": {
-            "name_of_young": "Larvae or grubs",
-            "group_behavior": "Swarm",
-            "estimated_population_size": "Millions (unknown population)",
-            "biggest_threat": "Natural predators and insecticide.",
-            "most_distinctive_feature": "Metallic green and copper body.",
-            "gestation_period": "1-2 weeks (from laying eggs to hatching)",
-            "litter_size": "1-5 eggs",
-            "habitat": "Forests, grasslands, farms, cities, and anywhere they can eat.",
-            "predators": "Wild birds, raccoons, moles, spiders, other insects.",
-            "diet": "Herbivore",
-            "favorite_food": "Plant life and fruits",
-            "type": "Insect",
-            "common_name": "Japanese beetle",
-            "number_of_species": "1",
-            "location": "Native to Asia, but also found in Canada and United States",
-            "group": "Large groups and swarms",
-            "color": "GreenGolden",
-            "skin_type": "Exoskeleton",
-            "lifespan": "Approximately 1 year (varies by temperature)",
-            "weight": "0.0825 grams",
-            "length": "15 mm",
-            "age_of_sexual_maturity": "2 weeks after hatching"
+            "main_prey": "Insects, Mice, Leaves",
+            "distinctive_feature": "Pronounced beard when scared and morphs skin colour",
+            "habitat": "Arid forest and desert",
+            "predators": "Birds, Snakes, Crocodiles",
+            "diet": "Omnivore",
+            "average_litter_size": "15",
+            "lifestyle": "Solitary",
+            "favorite_food": "Insects",
+            "type": "Reptile",
+            "slogan": "Can grow to up 24 inches long!",
+            "color": "BrownGreyYellowGreen",
+            "skin_type": "Scales",
+            "top_speed": "25 mph",
+            "lifespan": "6 - 15 years",
+            "weight": "250g - 510g (9oz - 18oz)",
+            "length": "50cm - 61cm (20in - 24in)"
         }
     },
     {
-        "name": "Squash Beetle",
+        "name": "Bearded Vulture",
         "taxonomy": {
             "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Coccinellidae",
-            "genus": "Epilachna",
-            "scientific_name": "Epilachna borealis"
-        },
-        "locations": [
-            "North-America"
-        ],
-        "characteristics": {
-            "name_of_young": "Nymphs",
-            "group_behavior": "Colony",
-            "estimated_population_size": "unknown",
-            "biggest_threat": "Pest control by humans",
-            "most_distinctive_feature": "Shield-like body",
-            "other_name(s)": "Squash lady beetle, squash ladybugs",
-            "gestation_period": "10 days",
-            "litter_size": "15-40 eggs",
-            "habitat": "Under plant debris, near buildings, near rocks, and other sheltered places",
-            "predators": "Tachinid fly, sceleonids, and praying mantises",
-            "diet": "Herbivore",
-            "favorite_food": "Leaves, vines, fruit",
-            "type": "Insect",
-            "common_name": "Squash beetle",
-            "number_of_species": "1",
-            "location": "North America",
-            "color": "YellowBlack",
-            "skin_type": "Exoskeleton",
-            "lifespan": "2-6 months",
-            "length": "3/8 inch",
-            "age_of_sexual_maturity": "Less than 1 year old"
-        }
-    },
-    {
-        "name": "Stag Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Lucanidae"
-        },
-        "locations": [
-            "Europe",
-            "North-America"
-        ],
-        "characteristics": {
-            "prey": "Rotting wood, fruits, and sap",
-            "name_of_young": "Larvae",
-            "group_behavior": "Solitary",
-            "biggest_threat": "Habitat loss",
-            "most_distinctive_feature": "The massive mandibles of the male",
-            "gestation_period": "A few days",
-            "litter_size": "30 eggs",
-            "habitat": "Loose soil of deserts, forests, grasslands, and more",
-            "predators": "Mammals, bird, reptiles, amphibians, and insects",
-            "diet": "Herbivore",
-            "average_litter_size": "100",
-            "type": "Insect",
-            "common_name": "Stag Beetle",
-            "number_of_species": "1200",
-            "location": "Europe, North America",
-            "color": "BrownRedBlackGreen",
-            "skin_type": "Exoskeleton",
-            "lifespan": "3-7 years",
-            "weight": "Up to 0.5 grams",
-            "length": "1cm \u2013 12.3cm (0.5in - 5in)"
-        }
-    },
-    {
-        "name": "Tiger Beetle",
-        "taxonomy": {
-            "kingdom": "Animalia",
-            "phylum": "Arthropoda",
-            "class": "Insecta",
-            "order": "Coleoptera",
-            "family": "Carabidae",
-            "genus": "Cicindela",
-            "scientific_name": "Cicindelinae"
+            "phylum": "Chordata",
+            "class": "Aves",
+            "order": "Accipitriformes",
+            "family": "Accipitridae",
+            "scientific_name": "Gypaetus barbatus"
         },
         "locations": [
             "Africa",
-            "Antarctica",
             "Asia",
-            "Central-America",
-            "Eurasia",
-            "Europe",
-            "North-America",
-            "Oceania",
-            "South-America"
+            "Europe"
         ],
         "characteristics": {
-            "prey": "spiders and insects",
-            "name_of_young": "larvae",
-            "group_behavior": "Solitary",
-            "biggest_threat": "Habitat destruction",
-            "most_distinctive_feature": "The iridescent metallic shell",
-            "gestation_period": "a few days or weeks",
-            "litter_size": "3-4 eggs per day",
-            "habitat": "ground",
+            "prey": "Tortoises, mammals, birds",
+            "estimated_population_size": "1,675-6,700",
+            "biggest_threat": "Poisoning, power lines",
+            "most_distinctive_feature": "Black bristly feathers under its bill",
+            "other_name(s)": "Lammergeier",
+            "wingspan": "7.5 feet to 9 feet",
+            "incubation_period": "53-60",
+            "litter_size": "1-2",
+            "habitat": "Rocky cliffs, shrublands, forests",
+            "predators": "Humans",
             "diet": "Carnivore",
-            "type": "insect",
-            "common_name": "Tiger beetle",
-            "number_of_species": "2600",
-            "location": "worldwide",
-            "color": "RedBlueBlackWhiteGreenOrange",
-            "skin_type": "Exoskeleton",
-            "top_speed": "3.5 mph",
-            "lifespan": "1-4 years",
-            "weight": "less than 1 gram",
-            "length": "up to 1 inch",
-            "age_of_sexual_maturity": "1-4 years"
+            "average_litter_size": "1-2",
+            "type": "bird",
+            "common_name": "Bearded vulture",
+            "number_of_species": "11",
+            "location": "Asia, Africa, Europe",
+            "average_clutch_size": "-2",
+            "nesting_location": "Rocky ledges",
+            "age_of_molting": "3 months",
+            "color": "GreyYellowRedBlackCream",
+            "skin_type": "Feathers",
+            "top_speed": "40 mph"
         }
     },
     {
-        "name": "Wildebeest",
+        "name": "Brown Bear",
         "taxonomy": {
             "kingdom": "Animalia",
             "phylum": "Chordata",
             "class": "Mammalia",
-            "order": "Artiodactyla",
-            "family": "Bovidae",
-            "genus": "Connochaetes",
-            "scientific_name": "Connochaetes Taurinus"
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursus arctos"
         },
         "locations": [
-            "Africa"
+            "Asia",
+            "Eurasia",
+            "Europe",
+            "North-America"
         ],
         "characteristics": {
-            "main_prey": "Grass, Leaves, Shoots",
-            "habitat": "Grass plains and bush covered savanna",
-            "predators": "Lion, Cheetah, Crocodile",
-            "diet": "Herbivore",
-            "average_litter_size": "1",
-            "lifestyle": "Herd",
-            "favorite_food": "Grass",
+            "main_prey": "Fish, Fruit, Insects",
+            "distinctive_feature": "Powerful forearms and hibernate in the winter",
+            "habitat": "Forest and mountainous regions",
+            "predators": "Human, Wolf, Cougar",
+            "diet": "Omnivore",
+            "average_litter_size": "3",
+            "lifestyle": "Solitary",
+            "favorite_food": "Fish",
             "type": "Mammal",
-            "slogan": "Can trek more than 1,000 miles every year!",
+            "slogan": "A dominant predator in it's environment!",
             "color": "BrownBlackTan",
+            "skin_type": "Fur",
+            "top_speed": "35 mph",
+            "lifespan": "20 - 30 years",
+            "weight": "136kg - 390kg (300lbs - 860lbs)",
+            "height": "1.5m - 2.8m (5ft - 9.2ft)"
+        }
+    },
+    {
+        "name": "Giant Panda Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ailuropoda",
+            "scientific_name": "Ailuropoda melanoleuca"
+        },
+        "locations": [
+            "Asia"
+        ],
+        "characteristics": {
+            "prey": "Bamboo, Fruits, Rodents",
+            "name_of_young": "Cub",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "2,000",
+            "biggest_threat": "Habitat loss",
+            "most_distinctive_feature": "Extension of wrist bone acts as a thumb",
+            "other_name(s)": "Giant Bear Cat, Bamboo Bear",
+            "gestation_period": "5 months",
+            "habitat": "High-altitude, moist bamboo forest",
+            "diet": "Omnivore",
+            "average_litter_size": "1",
+            "lifestyle": "Diurnal/Nocturnal",
+            "common_name": "Giant Panda, Giant Panda Bear",
+            "number_of_species": "1",
+            "location": "Mountains of central China",
+            "slogan": "Bamboo makes up 99 per cent of their diet!",
+            "group": "Mammal",
+            "color": "BrownBlackWhite",
+            "skin_type": "Fur",
+            "top_speed": "20 mph",
+            "lifespan": "20 - 35 years",
+            "weight": "110kg - 250kg (242lbs - 551lbs)",
+            "height": "1.5m - 1.8m (4.9ft - 6ft)",
+            "age_of_sexual_maturity": "4 - 8 years",
+            "age_of_weaning": "12 - 15 months"
+        }
+    },
+    {
+        "name": "Grizzly Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursus Arctos Horriblis"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "main_prey": "Salmon, Fruit, Fish",
+            "distinctive_feature": "Strong, powerful shoulders and enormous claws",
+            "habitat": "Forest and mountainous regions",
+            "predators": "Human, Cougars",
+            "diet": "Omnivore",
+            "average_litter_size": "2",
+            "lifestyle": "Solitary",
+            "favorite_food": "Salmon",
+            "type": "Mammal",
+            "slogan": "Less than 10% make it into adulthood",
+            "color": "BlackDark Brown",
+            "skin_type": "Fur",
+            "top_speed": "35 mph",
+            "lifespan": "15 - 25 years",
+            "weight": "181kg - 318kg (400lbs - 700lbs)",
+            "height": "2.1m - 3m (7ft - 10ft)"
+        }
+    },
+    {
+        "name": "North American Black Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursus americanus"
+        },
+        "locations": [
+            "North-America"
+        ],
+        "characteristics": {
+            "prey": "Fruits, Nuts, Rodents",
+            "name_of_young": "Cub",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "800,000",
+            "biggest_threat": "Local hunting and habitat loss",
+            "most_distinctive_feature": "Thick fur and long, pointed snout",
+            "other_name(s)": "American Black Bear",
+            "gestation_period": "220 days",
+            "habitat": "Forest and woodland",
+            "predators": "Grizzly Bear, Fox, Birds of Prey",
+            "diet": "Omnivore",
+            "average_litter_size": "3",
+            "lifestyle": "Nocturnal",
+            "common_name": "Black Bear",
+            "number_of_species": "16",
+            "location": "North America",
+            "slogan": "Short claws make them good tree climbers!",
+            "group": "Mammal",
+            "color": "BlackTanDark Brown",
+            "skin_type": "Fur",
+            "top_speed": "30 mph",
+            "lifespan": "15 - 30 years",
+            "weight": "100kg - 270kg (220lbs - 594lbs)",
+            "height": "1.3m - 1.8m (4.25ft - 6ft)",
+            "age_of_sexual_maturity": "4 - 6 years",
+            "age_of_weaning": "6 - 8 months"
+        }
+    },
+    {
+        "name": "Polar Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Ursus",
+            "scientific_name": "Ursus maritimus"
+        },
+        "locations": [
+            "Eurasia",
+            "Europe",
+            "North-America",
+            "Ocean"
+        ],
+        "characteristics": {
+            "prey": "Seal, Walrus, Seabirds",
+            "name_of_young": "Cub",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "20,000 - 25,000",
+            "biggest_threat": "Global warming",
+            "most_distinctive_feature": "Clear not white fur and black skin",
+            "other_name(s)": "Nanuuq",
+            "gestation_period": "6 - 9 months",
+            "habitat": "Coastal ice fields and floating ice",
+            "diet": "Carnivore",
+            "average_litter_size": "2",
+            "lifestyle": "Diurnal",
+            "common_name": "Polar Bear",
+            "number_of_species": "1",
+            "location": "Arctic Ocean",
+            "slogan": "Could be extinct within the next 30 years!",
+            "group": "Mammal",
+            "color": "YellowWhite",
+            "skin_type": "Fur",
+            "top_speed": "25 mph",
+            "lifespan": "20 - 30 years",
+            "weight": "150kg - 600kg (330lbs - 1,322lbs)",
+            "length": "2m - 2.5m (6.5ft - 8.3ft)",
+            "age_of_sexual_maturity": "3 - 5 years",
+            "age_of_weaning": "2 - 3 years"
+        }
+    },
+    {
+        "name": "Russian Bear Dog",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "genus": "Canis",
+            "scientific_name": "Canis lupus"
+        },
+        "locations": [
+            "Eurasia"
+        ],
+        "characteristics": {
+            "temperament": "Bold and Fearless",
+            "diet": "Omnivore",
+            "color": "BrownGreyBlackCream",
             "skin_type": "Hair",
-            "top_speed": "38 mph",
-            "lifespan": "15-20 years",
-            "weight": "120-250kg (265-550lbs)"
+            "lifespan": "10 to 12 years",
+            "weight": "170 pounds",
+            "height": "23 to 30 inches"
+        }
+    },
+    {
+        "name": "Spectacled Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Tremarctos",
+            "scientific_name": "Tremarctos Ornatus"
+        },
+        "locations": [
+            "South-America"
+        ],
+        "characteristics": {
+            "main_prey": "Berries, Mice, Birds",
+            "distinctive_feature": "Light spectacles on face and long claws",
+            "habitat": "Coastal forests and deserts",
+            "predators": "Human, Jaguar, Mountain lion",
+            "diet": "Omnivore",
+            "average_litter_size": "2",
+            "lifestyle": "Solitary",
+            "favorite_food": "Berries",
+            "type": "Mammal",
+            "slogan": "Native to the Andes mountains of South America!",
+            "color": "GreyBlackWhite",
+            "skin_type": "Fur",
+            "top_speed": "30 mph",
+            "lifespan": "20 - 30 years",
+            "weight": "130kg - 200kg (286lbs - 440lbs)",
+            "height": "1.5m - 2m (4.9ft - 6.6ft)"
+        }
+    },
+    {
+        "name": "Sun Bear",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Ursidae",
+            "genus": "Helarctos",
+            "scientific_name": "Helarctos malayanus"
+        },
+        "locations": [
+            "Asia"
+        ],
+        "characteristics": {
+            "prey": "Fruits, Honey, Insects",
+            "name_of_young": "Cub",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "biggest_threat": "Hunting and habitat loss",
+            "most_distinctive_feature": "Yellow or orange U-shaped marking on chest",
+            "other_name(s)": "Malaysian Sun Bear, Malay Bear, Honey Bear, Dog Bear",
+            "gestation_period": "3 - 8 months",
+            "habitat": "Primarily, lowland tropical forests",
+            "predators": "Tiger, Snakes, Birds of Prey",
+            "diet": "Omnivore",
+            "average_litter_size": "2",
+            "lifestyle": "Diurnal/Nocturnal",
+            "common_name": "Sun Bear",
+            "number_of_species": "2",
+            "location": "South-east Asia",
+            "slogan": "The smallest species of bear in the world!",
+            "group": "Mammal",
+            "color": "BrownGreyYellowRedBlackWhiteOrange",
+            "skin_type": "Fur",
+            "top_speed": "30 mph",
+            "lifespan": "15 - 30 years",
+            "weight": "30kg - 60kg (66lbs - 132lbs)",
+            "height": "1.2m - 1.5m (4ft - 5ft)",
+            "age_of_sexual_maturity": "3 - 4 years",
+            "age_of_weaning": "18 months"
+        }
+    },
+    {
+        "name": "Teddy Bear Hamster",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Rodentia",
+            "family": "Cricetidae",
+            "genus": "Mesocricetus",
+            "scientific_name": "Mesocricetus auratus"
+        },
+        "locations": [
+            "Asia",
+            "Europe"
+        ],
+        "characteristics": {
+            "prey": "Seed, fruit, vegetables, and grains",
+            "name_of_young": "Pup",
+            "group_behavior": "Solitary",
+            "estimated_population_size": "Unknown",
+            "most_distinctive_feature": "Large ears",
+            "other_name(s)": " Long-haired Syrian hamsters",
+            "gestation_period": "16 days",
+            "litter_size": "6-12 pups",
+            "habitat": "Cage, aquarium",
+            "predators": "Snakes, domesticated dogs and cats, foxes, and birds",
+            "diet": "Herbivore",
+            "type": "Mammal",
+            "common_name": "Teddy Bear Hamster",
+            "location": "Originated in Syria",
+            "group": "Solitary",
+            "color": "BrownGreyBlackWhiteGoldCreamDark GreyWhite-BrownGolden",
+            "skin_type": "Fur",
+            "lifespan": "2-3 years",
+            "weight": "3.5-5.3 ounces",
+            "length": "6 inches",
+            "age_of_sexual_maturity": "6 months",
+            "age_of_weaning": "4 weeks"
         }
     }
 ]
